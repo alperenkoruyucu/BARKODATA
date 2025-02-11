@@ -28,12 +28,12 @@
 
 1. Open VSCode
 2. Clone an existing project
-3. ```[https://github.com/umutbrkee/VideoGamesList.git](https://github.com/umutbrkee/Barkod-Data.git)``` search or enter
+3. (https://github.com/alperenkoruyucu/BarkodData.git)``` search or enter
 4. Congratulations! 
 
 #### Manually
 
-1. Download zip ``Barkod-Data``` in your computer.  
+1. Download zip ``BarkodData``` in your computer.  
 2. Congratulations!  
 
 ## Contribute 🙋‍♀️🙋
